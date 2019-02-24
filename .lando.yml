@@ -1,0 +1,4 @@
+name: wolfress
+recipe: wordpress
+config:
+  webroot: .
